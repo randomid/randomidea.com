@@ -1,4 +1,4 @@
 randomidea.com
 ==============
 
-The content of RandomIdea.com
+The content of http://www.RandomIdea.com
